@@ -17,4 +17,4 @@
 > 재미있는 기능들
 >> 또 있을까요
 
-![이미지 연습](./images/android_tippy.png)
+![이미지 연습](./images/android_tippy1.png)
